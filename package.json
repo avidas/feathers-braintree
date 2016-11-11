@@ -1,0 +1,23 @@
+{
+  "name": "feathers-braintree",
+  "version": "0.0.1",
+  "description": "Feathers js client for braintree payments",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avidas/feathers-braintree.git"
+  },
+  "keywords": [
+    "feathers",
+    "braintree"
+  ],
+  "author": "Avi Das",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/avidas/feathers-braintree/issues"
+  },
+  "homepage": "https://github.com/avidas/feathers-braintree#readme"
+}
